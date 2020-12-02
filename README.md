@@ -1,7 +1,7 @@
 # Estudo documentado sobre SASS
 
 
-## Propriedade Aninhadas
+## Propriedades Aninhadas
 
 ```
 nav {
