@@ -1,4 +1,7 @@
-# Estudo documentado sobre SASS
+
+<p align="center">
+  <img src="https://rstudio.github.io/sass/reference/figures/logo.svg" width="350" title="SASS Lang" alt="SASS Lang">
+</p>
 
 
 ## Propriedades Aninhadas
