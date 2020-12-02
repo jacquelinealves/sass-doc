@@ -1,4 +1,4 @@
-# Estudo documento sobre SASS
+# Estudo documentado sobre SASS
 
 
 ## Propriedade Aninhadas
